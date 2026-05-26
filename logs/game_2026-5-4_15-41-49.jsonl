@@ -1,0 +1,17 @@
+{"time":"15:41:49","level":"DEBUG","category":"Setup","trigger":"int main(int, char **)","file":"main.cpp","line":15,"msg":"ML-Modus: inaktiv"}
+{"time":"15:41:49","level":"INFO","category":"Setup","trigger":"info","file":"Logger.h","line":95,"msg":"Python initialized"}
+{"time":"15:41:49","level":"INFO","category":"Game","trigger":"Game::Game()","file":"Game.cpp","line":12,"msg":"Game constructor called"}
+{"time":"15:41:49","level":"INFO","category":"Setup","trigger":"Game::Game()","file":"Game.cpp","line":17,"msg":"ImGui-SFML initialized successfully"}
+{"time":"15:41:49","level":"INFO","category":"UI","trigger":"Game::Game()","file":"Game.cpp","line":24,"msg":"Window created: 1200x800"}
+{"time":"15:41:49","level":"DEBUG","category":"UI","trigger":"Game::Game()","file":"Game.cpp","line":29,"msg":"ImGui style configured"}
+{"time":"15:41:49","level":"INFO","category":"UI","trigger":"info","file":"Logger.h","line":95,"msg":"MainMenuScene created"}
+{"time":"15:41:49","level":"INFO","category":"UI","trigger":"Game::Game()","file":"Game.cpp","line":32,"msg":"MainMenuScene set as initial scene"}
+{"time":"15:41:49","level":"INFO","category":"Game","trigger":"void Game::run()","file":"Game.cpp","line":36,"msg":"Game loop started"}
+{"time":"15:41:51","level":"INFO","category":"Game","trigger":"void Game::run()","file":"Game.cpp","line":47,"msg":"Window close event received"}
+{"time":"15:41:51","level":"INFO","category":"Game","trigger":"void Game::run()","file":"Game.cpp","line":56,"msg":"Exiting game loop"}
+{"time":"15:41:51","level":"INFO","category":"Game","trigger":"void Game::cleanup()","file":"Game.cpp","line":86,"msg":"Cleaning up game"}
+{"time":"15:41:51","level":"DEBUG","category":"UI","trigger":"void Game::cleanup()","file":"Game.cpp","line":89,"msg":"SceneManager cleaned up"}
+{"time":"15:41:51","level":"INFO","category":"Setup","trigger":"void Game::cleanup()","file":"Game.cpp","line":92,"msg":"ImGui-SFML shutdown"}
+{"time":"15:41:51","level":"INFO","category":"UI","trigger":"void Game::cleanup()","file":"Game.cpp","line":96,"msg":"Window closed"}
+{"time":"15:41:51","level":"INFO","category":"Game","trigger":"void Game::cleanup()","file":"Game.cpp","line":99,"msg":"Game cleanup finished"}
+{"time":"15:41:51","level":"INFO","category":"Setup","trigger":"info","file":"Logger.h","line":95,"msg":"Python finalized"}

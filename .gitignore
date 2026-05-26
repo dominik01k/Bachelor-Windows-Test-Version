@@ -1,0 +1,13 @@
+/build/
+/.cmake/
+
+/.vs/
+/out/
+/.idea/
+/.vscode/
+*.vcxproj
+*.user
+*.sln
+
+__pycache__/
+*.pyc
